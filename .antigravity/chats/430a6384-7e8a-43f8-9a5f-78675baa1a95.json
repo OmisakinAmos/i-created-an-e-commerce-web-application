@@ -4,5 +4,18 @@
   "createdAt": "2026-10-05T10:21:28.535Z",
   "filename": "430a6384-7e8a-43f8-9a5f-78675baa1a95.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "56ba20b6-58af-4893-b786-7d4d4f8f371f",
+      "role": "user",
+      "content": "I created an e-commerce web application for a business now I want to develop that into a mobile app. The zip file for the web application will be attached here as well as the instructions to follow. How can I attach these here?",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-05T10:24:43.392Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
